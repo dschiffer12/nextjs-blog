@@ -1,0 +1,6 @@
+.success {
+    color: rgb(0, 128, 100);
+  }
+  .error {
+    color: rgb(255, 145, 0);
+  }
